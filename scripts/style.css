@@ -1,0 +1,183 @@
+.headertext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #980067;
+	font-size: 9px;
+}
+.smallblacktext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #000000;
+	font-size: 9px;
+}
+.blacktext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #000000;
+	font-size: 11px;
+}
+.graytext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #666666;
+	font-size: 11px;
+}
+.grayboldtext
+{	font-family: Tahoma, Arial, Helvetica;
+	font-weight: bold;
+	color: #666666;
+	font-size: 11px;
+}
+.blackboldtext
+{	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: #000000;
+	font-size: 11px;
+}
+.whiteboldtext
+{	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 11px;
+}
+.fuchiaheader
+{	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: #990066;
+	font-size: 11px;
+}
+input, textarea, select, option, submit
+{
+	font-family: arial;
+	color: #000000;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #E0CEDA;
+    border: solid #000000 0px;
+}
+.whitetext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #ffffff;
+	font-size: 11px;
+}
+.footertext
+{	font-family: Tahoma, Arial, Helvetica;
+	color: #a9a9a9;
+	font-size: 9px;
+}
+.link  {
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #CC6699;
+}
+
+.link:Active  {
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #996699;
+}
+
+.link:Visited  {
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #000000;
+}
+
+.link:Hover  {
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #CC0099;
+}
+
+.smalllink  {
+	font-size : 9px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #CC6699;
+}
+
+.smalllink:Active  {
+	font-size : 9px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #996699;
+}
+
+.smalllink:Visited  {
+	font-size : 9px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : underline;
+	color : #000000;
+}
+
+.smalllink:Hover  {
+	font-size : 9px;
+	font-family : Tahoma, Verdana, Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #CC0099;
+}
+.questions  {
+	font-size : 11px;
+	font-family : Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #CC6699;
+}
+
+.questions:Active  {
+	font-size : 11px;
+	font-family : Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #996699;
+}
+
+.questions:Visited  {
+	font-size : 11px;
+	font-family : Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #000000;
+}
+
+.questions:Hover  {
+	font-size : 11px;
+	font-family : Arial, Helvetica;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+	color : #CC0099;
+}
+.modelname
+{	font-family: Arial, Helvetica;
+	color: #CC6699;
+	font-weight : normal;
+	font-style : normal;
+	font-size: 24px;
+}
+.camptear
+{	font-family: Arial, Helvetica;
+	color: #CC6699;
+	font-weight : normal;
+	font-style : normal;
+	font-size: 16px;
+}
